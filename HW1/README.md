@@ -3,6 +3,8 @@
 This practical assignment implements an application-layer HTTP load balancer in
 Python.
 
+**Author:** Parmis Hemasian
+
 ## What It Does
 
 - Routes HTTP requests based on the `Host` header.

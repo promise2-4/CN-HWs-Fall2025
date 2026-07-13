@@ -3,6 +3,8 @@
 This practical assignment implements a simple DNS tunneling system in Python.
 It uses DNS TXT responses to carry HTTP response data back to a local proxy.
 
+**Author:** Parmis Hemasian
+
 ## What It Does
 
 - Runs a DNS server on port `5454`.
@@ -15,6 +17,7 @@ It uses DNS TXT responses to carry HTTP response data back to a local proxy.
 
 ## Files
 
+- `HW2-questions.pdf`: original practical assignment questions.
 - `practical-dns-tunnel/server.py`: DNS server and tunnel endpoint.
 - `practical-dns-tunnel/client.py`: local HTTP/SOCKS proxy client.
 
@@ -44,8 +47,3 @@ Example SOCKS5 proxy test:
 ```sh
 curl -v -x socks5h://localhost:8080 http://ifconfig.io
 ```
-
-## Note
-
-The original HW2 question PDF was not present as a standalone file in the source
-folder, so only the practical implementation files are included here.

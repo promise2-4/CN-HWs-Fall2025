@@ -63,7 +63,7 @@ Query received octets per interface:
 snmpwalk -v2c -c public localhost .1.3.6.1.2.1.2.2.1.10
 ```
 
-## Notes
+## Implementation Details
 
 - Numeric OIDs are used so the commands work even when MIB names are not
   installed or loaded.

@@ -2,6 +2,8 @@
 
 This practical assignment models packet fragmentation in OMNeT++/INET.
 
+**Author:** Parmis Hemasian
+
 ## What It Does
 
 - Builds a small network with two hosts and one router.

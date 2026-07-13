@@ -2,6 +2,8 @@
 
 Practical implementation archive for **Computer Networks, Fall 2025**.
 
+**Author:** Parmis Hemasian
+
 This repository contains only the practical parts of the homework set: question
 PDFs where available, source code, simulation/configuration files, and concise
 README files explaining each practical task. Reports, answer PDFs, submission
@@ -24,6 +26,7 @@ archives, generated files, and screenshots are intentionally excluded.
 │       ├── start_servers.py
 │       └── test_load_balancer.py
 ├── HW2/
+│   ├── HW2-questions.pdf
 │   ├── README.md
 │   └── practical-dns-tunnel/
 │       ├── client.py

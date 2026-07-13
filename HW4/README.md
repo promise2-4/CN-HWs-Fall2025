@@ -2,6 +2,8 @@
 
 HW4 contains two practical networking tasks.
 
+**Author:** Parmis Hemasian
+
 ## Practical Q1: SNMP
 
 The SNMP part configures a local SNMP agent and queries system/interface
