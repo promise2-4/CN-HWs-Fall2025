@@ -1,0 +1,14 @@
+.DS_Store
+*.zip
+*.docx
+~$*
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+node_modules/
+*.log
+*.out
+*.tmp
